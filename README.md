@@ -73,3 +73,8 @@ For questions or feedback, please contact Your Name.
 
 > [!CAUTION]  
 > THE AIRPORT SYSTEM IS NOT FUNCTIONAL BUT WILL BE SOON FIXED !
+
+## Grand Theft Auto V : Los Santos Red - Liberty City Config
+
+you can find the config in the branch LibertyCityConfig
+
