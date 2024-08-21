@@ -76,5 +76,5 @@ For questions or feedback, please contact Your Name.
 
 ## Grand Theft Auto V : Los Santos Red - Liberty City Config
 
-you can find the config in the branch LibertyCityConfig
+you can find the config in the branch [LibertyCityConfig](https://github.com/flush286/XLM-Blip-Manager/tree/LibertyCityConfig)
 
