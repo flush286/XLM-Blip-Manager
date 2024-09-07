@@ -1,6 +1,5 @@
 # XML Blip Manager
 
-test desc
 
 ## Overview
 
